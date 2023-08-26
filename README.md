@@ -78,3 +78,7 @@ The "Stocks-and-Financial-Analysis-Dashboard" project centers around gaining the
 By creating this dashboard, the project aims to provide investors with a comprehensive tool to assess stocks and financial health, facilitating well-informed investment decisions.
 
 ---
+
+### Dashboard Image:
+![Metrics_Dashboard (3)_page-0001](https://github.com/shirsh10mall/Stocks-and-Financial-Analysis-Dashboard/assets/87264071/eef36b93-50b9-4384-a231-b5b9f972468d)
+
